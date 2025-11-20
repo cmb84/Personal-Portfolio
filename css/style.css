@@ -1,0 +1,56 @@
+/* DEVELOPER: Carlos Barrientos, IS117-xxx, Fall 2025 */
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Homepage hero */
+.hero {
+  background: linear-gradient(135deg, #0d6efd, #6610f2);
+  color: #fff;
+  padding: 5rem 1rem;
+}
+
+.hero h1 {
+  font-weight: 700;
+}
+
+.hero .btn-primary {
+  font-size: 1.1rem;
+  padding: 0.6rem 1.6rem;
+}
+
+/* Cards spacing */
+.section-padding {
+  padding: 3rem 0;
+}
+
+/* Profile image */
+.profile-img {
+  max-width: 220px;
+}
+
+/* Footer */
+.site-footer {
+  font-size: 0.9rem;
+}
+
+/* Interior pages header spacing */
+.page-header {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Make cards a bit nicer */
+.card {
+  border-radius: 0.75rem;
+}
+
+/* Links hover */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
